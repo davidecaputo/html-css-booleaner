@@ -2,10 +2,18 @@ div{
     height: 70px;
     background-image: url(../img/pattern.png);
     background-size: contain;
-    background-color: rgba(78,160,255,255)
+    background-color: rgba(78,160,255,255);
 }
 
-img{
+div img{
     width: 150px;
     height: 90px;
+}
+
+.grigio{
+    color: grey;
+}
+
+.blu{
+    color: aqua;
 }
